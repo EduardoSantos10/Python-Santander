@@ -16,3 +16,7 @@ altura = 1.82
 # string (Cadeia de Texto)
 nome = "Eduardo"
 mensagem = "Olá mundo"
+
+# boolean (Booleanos) -> São inicializados com letras maiúsculas
+e_maior_de_idade = True
+tem_desconto = False
