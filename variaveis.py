@@ -11,3 +11,6 @@ nome = "Eduardo"
 idade = 22
 altura = 1.82
 e_estudante = True
+
+# Exemplo de Declaração Múltipla ( Atribuir um valor a múltiplas variavéis)
+a = b = c = 10
